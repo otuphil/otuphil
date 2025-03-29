@@ -19,7 +19,9 @@ Key Strengths:
 	Streamline KYC verification processes for various government and financial institutions, improving turnaround time for client requests.
 
 Achievements:
-	Successfully trained and mentored over 15 trainees in the understanding of data analysis fundamentals and their applications in solving real-world problems companies expect data analysts to solve 90% of the time.
+
+
+	Successfully trained and mentored over 17 trainees in the understanding of data analysis fundamentals and their applications in solving real-world problems companies expect data analysts to solve 90% of the time.
 	Addressed and resolved enquiries related to identity management services, enhancing response efficiency by 10% at National Identity Management Commission, Abuja.
 	Supported the Education and Training department, contributing to a 20% increase in department efficiency by streamlining data analysis tasks at Abuja Data School, Abuja.
 	Utilized real-world case studies to teach analytical concepts, empowering mentees with relevant business analysis skills at Digital Bananas Technologies, Lagos; Torbita Computer Training School, Abuja and SocialTailer Solutions Ltd., Abuja.
